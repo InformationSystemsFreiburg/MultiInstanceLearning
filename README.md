@@ -16,7 +16,7 @@ Requirements:
  Out-of-sample reviews used for analyses:<br>
    &nbsp;&nbsp;&nbsp;&nbsp; data/other --> put all reviews for subsequent analyses here
   
-  Each review file should be stored with the name <unique review id>.txt and contain one sentence per line. We recommend using https://stanfordnlp.github.io/CoreNLP/ for sentence splitting.
+  Each review file should be stored with the name \<unique review id\>.txt and contain one sentence per line. We recommend using https://stanfordnlp.github.io/CoreNLP/ for sentence splitting.
   
   The manually-labeled dataset is stored at data/test_sentences.csv. It contains one labeled sentence and the corresponding label per line.
   
